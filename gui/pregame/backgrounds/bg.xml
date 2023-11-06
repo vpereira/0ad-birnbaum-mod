@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<sprites>
+	<sprite name="background-bg">
+		<image
+			texture="pregame/backgrounds/my_mod_bg.png"
+			fixed_h_aspect_ratio="2"
+			round_coordinates="false"
+		/>
+	</sprite>
+</sprites>
+
