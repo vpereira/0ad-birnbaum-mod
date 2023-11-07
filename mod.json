@@ -1,7 +1,7 @@
 {
   "name": "birnbaum",
   "label": "Super mod",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "url": "https://github.com/vpereira/0ad-birnbaum-mod",
   "description": "Super mod for 0 A.D",
   "dependencies": [ "0ad=0.0.26"],
