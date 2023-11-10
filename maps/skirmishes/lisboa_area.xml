@@ -32,8 +32,8 @@
 		</Postproc>
 	</Environment>
 	<Camera>
-		<Position x="228.983" y="708.131" z="-209.853"/>
-		<Rotation angle="0.489643"/>
+		<Position x="937.355" y="414.736" z="206.076"/>
+		<Rotation angle="-0.894723"/>
 		<Declination angle="0.610865"/>
 	</Camera>
 	<ScriptSettings><![CDATA[
@@ -48,19 +48,18 @@
   "LockTeams": false,
   "Name": "Lisboa Area",
   "PlayerData": [
-    "",
     {
       "Civ": "iber",
       "StartingCamera": {
         "Position": {
-          "x": 416.048,
-          "y": 295.541,
-          "z": 624.839
+          "x": 544.694,
+          "y": 294.549,
+          "z": 760.096
         },
         "Rotation": {
           "x": 35,
-          "y": 47.8014,
-          "z": 0.00000635529
+          "y": -43.3136,
+          "z": 0.0000105605
         }
       }
     },
@@ -68,14 +67,14 @@
       "Civ": "rome",
       "StartingCamera": {
         "Position": {
-          "x": 745.554,
-          "y": 322.665,
-          "z": 161.746
+          "x": 838.642,
+          "y": 326.125,
+          "z": 285.262
         },
         "Rotation": {
           "x": 35,
-          "y": 47.8014,
-          "z": 0.00000635529
+          "y": -51.2639,
+          "z": -0.0000081866
         }
       }
     }
@@ -98,7 +97,7 @@
 		<Entity uid="12">
 			<Template>skirmish/structures/default_civil_centre</Template>
 			<Player>2</Player>
-			<Position x="870.9856" z="277.83655"/>
+			<Position x="873.12354" z="281.72135"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="18589"/>
 		</Entity>
@@ -154,21 +153,21 @@
 		<Entity uid="20">
 			<Template>skirmish/units/default_support_female_citizen</Template>
 			<Player>2</Player>
-			<Position x="848.92286" z="289.95206"/>
+			<Position x="852.52723" z="269.76383"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="45179"/>
 		</Entity>
 		<Entity uid="21">
 			<Template>skirmish/units/default_support_female_citizen</Template>
 			<Player>2</Player>
-			<Position x="855.15088" z="293.8241"/>
+			<Position x="851.82612" z="273.87635"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="8876"/>
 		</Entity>
 		<Entity uid="22">
 			<Template>skirmish/units/default_support_female_citizen</Template>
 			<Player>2</Player>
-			<Position x="864.32386" z="299.12598"/>
+			<Position x="854.8318" z="272.07682"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="8876"/>
 		</Entity>
@@ -196,7 +195,7 @@
 		<Entity uid="26">
 			<Template>skirmish/units/default_support_female_citizen</Template>
 			<Player>2</Player>
-			<Position x="844.31202" z="288.12592"/>
+			<Position x="858.75171" z="268.5546"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="41710"/>
 		</Entity>
@@ -1792,7 +1791,7 @@
 		<Entity uid="260">
 			<Template>skirmish/units/default_cavalry</Template>
 			<Player>2</Player>
-			<Position x="839.90217" z="294.9795"/>
+			<Position x="889.71698" z="263.39338"/>
 			<Orientation y="-0.80047"/>
 			<Actor seed="56194"/>
 		</Entity>
@@ -5379,6 +5378,34 @@
 			<Position x="990.95026" z="664.59907"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="16244"/>
+		</Entity>
+		<Entity uid="775">
+			<Template>rubble/rubble_celt_dock</Template>
+			<Player>0</Player>
+			<Position x="562.2475" z="1172.47547"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="48904"/>
+		</Entity>
+		<Entity uid="776">
+			<Template>gaia/rock/desert_large</Template>
+			<Player>0</Player>
+			<Position x="913.48145" z="325.4112"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="53408"/>
+		</Entity>
+		<Entity uid="777">
+			<Template>gaia/rock/desert_large</Template>
+			<Player>0</Player>
+			<Position x="921.75965" z="315.27247"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="61138"/>
+		</Entity>
+		<Entity uid="778">
+			<Template>gaia/ore/alpine_large</Template>
+			<Player>0</Player>
+			<Position x="783.03357" z="298.5459"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="63468"/>
 		</Entity>
 	</Entities>
 	<Paths/>
